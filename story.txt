@@ -1,0 +1,3 @@
+highlight user input in deciding (static more important than dynamic), figuring out the costs/benefits (e.g., contour maps and heatmaps - providing /height/, not just boundaries like in chemical tactile graphics.
+
+sean draw storyboard?
